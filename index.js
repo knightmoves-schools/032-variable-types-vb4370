@@ -1,5 +1,5 @@
-let animalName = b;
+let animalName = "b";
 let height = 2;
-let isIndoorPet = idk
+let isIndoorPet = false;
 
-let html = document.getElementById("animalName").innerHTML
+document.getElementById("animalName").innerHTML = animalName;
