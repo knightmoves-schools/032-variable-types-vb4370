@@ -2,4 +2,4 @@ let animalName = "b";
 let height = 2;
 let isIndoorPet = false;
 
-document.getElementById("animalName").innerHTML = animalName;
+document.getElementById("result").innerHTML = animalName;
